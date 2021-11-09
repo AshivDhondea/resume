@@ -2,13 +2,10 @@
 
 ## Research projects
 - **DFTS2: Deep Feature Transmission Simulator version 2** and **CALTeC: Content-Adaptive Linear Tensor Completion for collaborative intelligence**
-
-. - Collaborative Intelligence is a hybrid AI deployment strategy: it involves splitting a deep neural network model into two sub-models. The first sub-model runs on a device with limited computational power such as a mobile phone. The second sub-model runs on a remote cloud service, with comparatively large computing power. By leveraging both types of compute resources, collaborative intelligence leads to reduced latency and increased energy savings as compared to single-resource deployment strategies. A deep feature tensor is transmitted over an imperfect communication channel from the device to the cloud. Due to the lossy nature of the communication channel, there may be lost or corrupted packets in the tensor received at the cloud. Potential applications of CI include Internet of Things services, autonomous naviagation and point of care services. These applications may involve a lossy communication channel. To understand the impact of lossy channels in collaborative intelligence applications, a simulator named DFTS was developed. DFTS stands for Deep Feature TRansmission S. I modified DFTS to become compatible with TensorFlow version 2. Furthermore, this updated DFTS has sophisticated features:
-
-.. - additional communication channel models and simulation modes.
-.. - tensor packet recovery methods from the recent literature.
-
-. - DFTS2 can be cloned from this [repo](https://github.com/AshivDhondea/DFTS2). I also provide packet traces, experiment files, example yml scripts to replicate experiments published in my ICIP 2021 and VCIP 2021 papers.
+-- Collaborative Intelligence is a hybrid AI deployment strategy: it involves splitting a deep neural network model into two sub-models. The first sub-model runs on a device with limited computational power such as a mobile phone. The second sub-model runs on a remote cloud service, with comparatively large computing power. By leveraging both types of compute resources, collaborative intelligence leads to reduced latency and increased energy savings as compared to single-resource deployment strategies. A deep feature tensor is transmitted over an imperfect communication channel from the device to the cloud. Due to the lossy nature of the communication channel, there may be lost or corrupted packets in the tensor received at the cloud. Potential applications of CI include Internet of Things services, autonomous naviagation and point of care services. These applications may involve a lossy communication channel. To understand the impact of lossy channels in collaborative intelligence applications, a simulator named DFTS was developed. DFTS stands for Deep Feature TRansmission S. I modified DFTS to become compatible with TensorFlow version 2. Furthermore, this updated DFTS has sophisticated features:
+--- additional communication channel models and simulation modes.
+--- tensor packet recovery methods from the recent literature.
+-- DFTS2 can be cloned from this [repo](https://github.com/AshivDhondea/DFTS2). I also provide packet traces, experiment files, example yml scripts to replicate experiments published in my ICIP 2021 and VCIP 2021 papers.
 
 . - I also provide a work-in-progress [user documentation manual](https://github.com/AshivDhondea/dfts2_user_doc)
 
