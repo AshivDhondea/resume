@@ -23,17 +23,13 @@ multitude of smaller particles which eventually spread out in orbit and increase
 
 ## Academic projects
  - **Performance analysis of YouTube streaming over WiFi** 
- - Term project for the course ENSC 894 - Communication Networks in Spring 2020 at Simon Fraser University.
-
-.. - Project done in collaboration with Amandeep Kaur and Haotian Ye.
-
-.. - [Project website](http://www.sfu.ca/~hdhondea/ENSC894Group2.html)
-
-.. - [report](https://github.com/AshivDhondea/ENSC894_project_report)
-
-. - **Classifying car images in the TCC dataset**
-
-.. - [repo](https://github.com/AshivDhondea/ENSC813_Project)
+   - Term project for the course ENSC 894 - Communication Networks in Spring 2020 at Simon Fraser University.
+   - Project done in collaboration with Amandeep Kaur and Haotian Ye.
+   - [Project website](http://www.sfu.ca/~hdhondea/ENSC894Group2.html)
+   - [r\Report](https://github.com/AshivDhondea/ENSC894_project_report)
+   
+  - **Classifying car images in the TCC dataset**
+    - [repo](https://github.com/AshivDhondea/ENSC813_Project)
 
 ## Self-study projects
 
