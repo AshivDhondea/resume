@@ -16,16 +16,14 @@ multitude of smaller particles which eventually spread out in orbit and increase
       - simulate the radar measurements including th
 
   - [Repo](https://github.com/AshivDhondea/SORADSIM)
-  - -[Repo for TiKZ figures](https://github.com/AshivDhondea/TikZ_Bistatic_Radar_Astrodynamics)
-  - -[Repo for RadarConf paper](https://github.com/AshivDhondea/ashiv_2019_radar_conf)
-  - -[Repo for satellite orbit plotting in Python](https://github.com/AshivDhondea/Satellite_Ground_Track_Plotting_Python)
-  - -[Initial work done in MATLAB](https://github.com/AshivDhondea/TrackingSpaceDebris)
+  - [Repo for TiKZ figures](https://github.com/AshivDhondea/TikZ_Bistatic_Radar_Astrodynamics)
+  - [Repo for RadarConf paper](https://github.com/AshivDhondea/ashiv_2019_radar_conf)
+  - [Repo for satellite orbit plotting in Python](https://github.com/AshivDhondea/Satellite_Ground_Track_Plotting_Python)
+  - [Initial work done in MATLAB](https://github.com/AshivDhondea/TrackingSpaceDebris)
 
 ## Academic projects
-
-. - **Performance analysis of YouTube streaming over WiFi** 
-
-.. - Term project for the course ENSC 894 - Communication Networks in Spring 2020 at Simon Fraser University.
+ - **Performance analysis of YouTube streaming over WiFi** 
+ - Term project for the course ENSC 894 - Communication Networks in Spring 2020 at Simon Fraser University.
 
 .. - Project done in collaboration with Amandeep Kaur and Haotian Ye.
 
